@@ -1,0 +1,8 @@
+name: MicroMachine
+version: 0.1.0
+
+authors:
+  - Michel Martens (https://github.com/soveran)
+  - Chris Ravenscroft <chris@voilaweb.com> -- Crystal port
+
+license: see https://github.com/soveran/micromachine
